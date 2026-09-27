@@ -1,6 +1,6 @@
-# Hi, I'm Ethan Kok 👋
+# Hi, I'm Ethan Kok! 👋
 
-Year 2 **Data Science & AI** undergraduate at **Nanyang Technological University (NTU), Singapore**. CGPA 4.84 / 5.00, Dean's List AY2025/26.
+Year 2 **Data Science & AI** undergraduate at **Nanyang Technological University (NTU), Singapore**. 
 
 I build ML systems and test whether they hold up outside the lab: agents, evaluation, adversarial robustness and inference efficiency on constrained hardware.
 
