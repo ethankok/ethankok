@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Kok! 👋
+# Hellooo, I'm Ethan Kok! 👋
 
 Year 2 **Data Science & AI** undergraduate at **Nanyang Technological University (NTU), Singapore**. 
 
