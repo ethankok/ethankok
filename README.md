@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Hi, I'm Ethan. I love building with ML." src="assets/hero-light.svg" width="100%">
+  <img alt="Hi, I'm Ethan. I love all things ML." src="assets/hero-light.svg" width="100%">
 </picture>
 
 Year 2 **Data Science & AI** undergraduate at **NTU Singapore**, working on agents, evaluation, adversarial robustness and edge inference.

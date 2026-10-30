@@ -11,7 +11,7 @@ from pathlib import Path
 OUT = Path(__file__).resolve().parent.parent / "assets"
 
 W, H = 860, 104
-HEADLINE = "Hi, I'm Ethan. I love building with ML."
+HEADLINE = "Hi, I'm Ethan. I love all things ML."
 ACCENT_FROM = HEADLINE.index("love")
 
 FONT_SIZE = 30
