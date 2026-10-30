@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="100" viewBox="0 0 420 100" role="img" aria-label="6.8% of HDB carparks at least 90% full right now">
+  <style>
+    .lbl { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
+    .big { font: 700 46px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .spark { stroke-dasharray: 1; stroke-dashoffset: 0; }
+    .dot { opacity: 1; }
+    @media (prefers-reduced-motion: no-preference) {
+      .spark { animation: draw 1.6s ease-out 0.2s both; }
+      .dot { animation: pop 0.4s ease-out 1.7s both; }
+    }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+    @keyframes pop { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <text class="lbl" x="16" y="24">HDB carparks &#8805;90% full right now</text>
+  <text class="big" x="16" y="78">6.8%</text>
+  <path class="spark" d="M236.0,70.8 L400.0,63.3" pathLength="1" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="dot" cx="400.0" cy="63.3" r="3.5" fill="#1D9E75"/>
+</svg>
