@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="104" viewBox="0 0 860 104" role="img" aria-labelledby="t">
-<title id="t">Hi, I'm Ethan. I love all things ML.</title>
+<title id="t">Hi, I'm Ethan. I'm passionate about all things ML!</title>
 <style>
-.g{font:500 30px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#e6edf3}
+.g{font:500 26.0px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#e6edf3}
 .a{fill:#AFA9EC}
 .caret{fill:#AFA9EC}
 .cur{opacity:0}
@@ -10,45 +10,58 @@
 .g{animation:show .01s linear both}
 .cur{animation:cur 1.4s linear both}
 .ring{animation:ring .45s ease-out 1.08s both}
-.caret{animation:caret 5.711s linear both,blink 1.06s step-end 5.711s 6}
+.caret{animation:caret 6.994s linear both,blink 1.06s step-end 6.994s 6}
 .caret-wrap{animation:show .01s linear 1.4s both}
 }
 @keyframes show{from{opacity:0}to{opacity:1}}
 @keyframes ring{0%{opacity:.7;transform:scale(.2)}100%{opacity:0;transform:scale(1)}}
 @keyframes blink{50%{opacity:0}}
 @keyframes cur{0.00%{transform:translate(-24.0px,110.0px);opacity:1}3.57%{transform:translate(-23.8px,109.7px);opacity:1}7.14%{transform:translate(-22.9px,107.8px);opacity:1}10.71%{transform:translate(-20.5px,103.4px);opacity:1}14.29%{transform:translate(-16.7px,96.1px);opacity:1}17.86%{transform:translate(-11.2px,86.3px);opacity:1}21.43%{transform:translate(-4.5px,75.1px);opacity:1}25.00%{transform:translate(3.3px,64.1px);opacity:1}28.57%{transform:translate(11.5px,55.0px);opacity:1}32.14%{transform:translate(19.7px,48.8px);opacity:1}35.71%{transform:translate(27.5px,45.4px);opacity:1}39.29%{transform:translate(34.2px,44.1px);opacity:1}42.86%{transform:translate(39.7px,43.8px);opacity:1}46.43%{transform:translate(43.5px,43.9px);opacity:1}50.00%{transform:translate(45.9px,44.0px);opacity:1}53.57%{transform:translate(46.8px,44.0px);opacity:1}57.14%{transform:translate(47.0px,44.0px);opacity:1}60.29%{transform:translate(46.5px,43.8px);opacity:1}63.43%{transform:translate(44.1px,42.7px);opacity:1}66.57%{transform:translate(40.9px,41.3px);opacity:1}69.71%{transform:translate(38.5px,40.2px);opacity:1}72.86%{transform:translate(38.0px,40.0px);opacity:1}91.43%{opacity:1}100%{transform:translate(38.0px,40.0px);opacity:0}}
-@keyframes caret{0%{transform:translateX(-648.0px);animation-timing-function:steps(1,end)}24.51%{transform:translateX(-630.0px);animation-timing-function:steps(1,end)}26.14%{transform:translateX(-612.0px);animation-timing-function:steps(1,end)}28.16%{transform:translateX(-594.0px);animation-timing-function:steps(1,end)}33.11%{transform:translateX(-576.0px);animation-timing-function:steps(1,end)}34.72%{transform:translateX(-558.0px);animation-timing-function:steps(1,end)}35.85%{transform:translateX(-540.0px);animation-timing-function:steps(1,end)}37.26%{transform:translateX(-522.0px);animation-timing-function:steps(1,end)}38.64%{transform:translateX(-504.0px);animation-timing-function:steps(1,end)}41.61%{transform:translateX(-486.0px);animation-timing-function:steps(1,end)}44.10%{transform:translateX(-468.0px);animation-timing-function:steps(1,end)}45.55%{transform:translateX(-450.0px);animation-timing-function:steps(1,end)}46.53%{transform:translateX(-432.0px);animation-timing-function:steps(1,end)}47.69%{transform:translateX(-414.0px);animation-timing-function:steps(1,end)}49.79%{transform:translateX(-396.0px);animation-timing-function:steps(1,end)}54.72%{transform:translateX(-378.0px);animation-timing-function:steps(1,end)}56.70%{transform:translateX(-360.0px);animation-timing-function:steps(1,end)}58.92%{transform:translateX(-342.0px);animation-timing-function:steps(1,end)}61.03%{transform:translateX(-324.0px);animation-timing-function:steps(1,end)}62.79%{transform:translateX(-306.0px);animation-timing-function:steps(1,end)}66.10%{transform:translateX(-288.0px);animation-timing-function:steps(1,end)}67.38%{transform:translateX(-270.0px);animation-timing-function:steps(1,end)}69.46%{transform:translateX(-252.0px);animation-timing-function:steps(1,end)}72.80%{transform:translateX(-234.0px);animation-timing-function:steps(1,end)}74.30%{transform:translateX(-216.0px);animation-timing-function:steps(1,end)}75.53%{transform:translateX(-198.0px);animation-timing-function:steps(1,end)}78.19%{transform:translateX(-180.0px);animation-timing-function:steps(1,end)}82.02%{transform:translateX(-162.0px);animation-timing-function:steps(1,end)}84.48%{transform:translateX(-144.0px);animation-timing-function:steps(1,end)}86.49%{transform:translateX(-126.0px);animation-timing-function:steps(1,end)}88.24%{transform:translateX(-108.0px);animation-timing-function:steps(1,end)}90.65%{transform:translateX(-90.0px);animation-timing-function:steps(1,end)}92.15%{transform:translateX(-72.0px);animation-timing-function:steps(1,end)}93.23%{transform:translateX(-54.0px);animation-timing-function:steps(1,end)}95.43%{transform:translateX(-36.0px);animation-timing-function:steps(1,end)}96.79%{transform:translateX(-18.0px);animation-timing-function:steps(1,end)}97.90%{transform:translateX(0.0px);animation-timing-function:steps(1,end)}100%{transform:none;animation-timing-function:steps(1,end)}}
+@keyframes caret{0%{transform:translateX(-780.0px);animation-timing-function:steps(1,end)}20.02%{transform:translateX(-764.4px);animation-timing-function:steps(1,end)}21.34%{transform:translateX(-748.8px);animation-timing-function:steps(1,end)}23.00%{transform:translateX(-733.2px);animation-timing-function:steps(1,end)}27.04%{transform:translateX(-717.6px);animation-timing-function:steps(1,end)}28.35%{transform:translateX(-702.0px);animation-timing-function:steps(1,end)}29.27%{transform:translateX(-686.4px);animation-timing-function:steps(1,end)}30.43%{transform:translateX(-670.8px);animation-timing-function:steps(1,end)}31.55%{transform:translateX(-655.2px);animation-timing-function:steps(1,end)}33.98%{transform:translateX(-639.6px);animation-timing-function:steps(1,end)}36.01%{transform:translateX(-624.0px);animation-timing-function:steps(1,end)}37.19%{transform:translateX(-608.4px);animation-timing-function:steps(1,end)}37.99%{transform:translateX(-592.8px);animation-timing-function:steps(1,end)}38.94%{transform:translateX(-577.2px);animation-timing-function:steps(1,end)}40.66%{transform:translateX(-561.6px);animation-timing-function:steps(1,end)}44.68%{transform:translateX(-546.0px);animation-timing-function:steps(1,end)}46.30%{transform:translateX(-530.4px);animation-timing-function:steps(1,end)}48.11%{transform:translateX(-514.8px);animation-timing-function:steps(1,end)}49.26%{transform:translateX(-499.2px);animation-timing-function:steps(1,end)}50.70%{transform:translateX(-483.6px);animation-timing-function:steps(1,end)}54.75%{transform:translateX(-468.0px);animation-timing-function:steps(1,end)}55.80%{transform:translateX(-452.4px);animation-timing-function:steps(1,end)}57.49%{transform:translateX(-436.8px);animation-timing-function:steps(1,end)}59.31%{transform:translateX(-421.2px);animation-timing-function:steps(1,end)}60.54%{transform:translateX(-405.6px);animation-timing-function:steps(1,end)}61.54%{transform:translateX(-390.0px);animation-timing-function:steps(1,end)}63.72%{transform:translateX(-374.4px);animation-timing-function:steps(1,end)}65.80%{transform:translateX(-358.8px);animation-timing-function:steps(1,end)}67.81%{transform:translateX(-343.2px);animation-timing-function:steps(1,end)}69.45%{transform:translateX(-327.6px);animation-timing-function:steps(1,end)}70.88%{transform:translateX(-312.0px);animation-timing-function:steps(1,end)}73.83%{transform:translateX(-296.4px);animation-timing-function:steps(1,end)}75.05%{transform:translateX(-280.8px);animation-timing-function:steps(1,end)}75.93%{transform:translateX(-265.2px);animation-timing-function:steps(1,end)}77.13%{transform:translateX(-249.6px);animation-timing-function:steps(1,end)}78.25%{transform:translateX(-234.0px);animation-timing-function:steps(1,end)}79.15%{transform:translateX(-218.4px);animation-timing-function:steps(1,end)}80.57%{transform:translateX(-202.8px);animation-timing-function:steps(1,end)}82.51%{transform:translateX(-187.2px);animation-timing-function:steps(1,end)}83.71%{transform:translateX(-171.6px);animation-timing-function:steps(1,end)}84.43%{transform:translateX(-156.0px);animation-timing-function:steps(1,end)}86.18%{transform:translateX(-140.4px);animation-timing-function:steps(1,end)}87.28%{transform:translateX(-124.8px);animation-timing-function:steps(1,end)}88.89%{transform:translateX(-109.2px);animation-timing-function:steps(1,end)}89.79%{transform:translateX(-93.6px);animation-timing-function:steps(1,end)}91.04%{transform:translateX(-78.0px);animation-timing-function:steps(1,end)}92.58%{transform:translateX(-62.4px);animation-timing-function:steps(1,end)}94.26%{transform:translateX(-46.8px);animation-timing-function:steps(1,end)}96.28%{transform:translateX(-31.2px);animation-timing-function:steps(1,end)}97.07%{transform:translateX(-15.6px);animation-timing-function:steps(1,end)}98.28%{transform:translateX(0.0px);animation-timing-function:steps(1,end)}100%{transform:none;animation-timing-function:steps(1,end)}}
 </style>
 <circle class="ring" cx="38.0" cy="40.0" r="14"/>
 <text class="g" x="40.0" y="66" style="animation-delay:1.400s">H</text>
-<text class="g" x="58.0" y="66" style="animation-delay:1.493s">i</text>
-<text class="g" x="76.0" y="66" style="animation-delay:1.608s">,</text>
-<text class="g" x="112.0" y="66" style="animation-delay:1.983s">I</text>
-<text class="g" x="130.0" y="66" style="animation-delay:2.047s">&#39;</text>
-<text class="g" x="148.0" y="66" style="animation-delay:2.128s">m</text>
-<text class="g" x="184.0" y="66" style="animation-delay:2.376s">E</text>
-<text class="g" x="202.0" y="66" style="animation-delay:2.519s">t</text>
-<text class="g" x="220.0" y="66" style="animation-delay:2.601s">h</text>
-<text class="g" x="238.0" y="66" style="animation-delay:2.657s">a</text>
-<text class="g" x="256.0" y="66" style="animation-delay:2.724s">n</text>
-<text class="g" x="274.0" y="66" style="animation-delay:2.844s">.</text>
-<text class="g" x="310.0" y="66" style="animation-delay:3.238s">I</text>
-<text class="g a" x="346.0" y="66" style="animation-delay:3.485s">l</text>
-<text class="g a" x="364.0" y="66" style="animation-delay:3.586s">o</text>
-<text class="g a" x="382.0" y="66" style="animation-delay:3.775s">v</text>
-<text class="g a" x="400.0" y="66" style="animation-delay:3.848s">e</text>
-<text class="g a" x="436.0" y="66" style="animation-delay:4.158s">a</text>
-<text class="g a" x="454.0" y="66" style="animation-delay:4.243s">l</text>
-<text class="g a" x="472.0" y="66" style="animation-delay:4.313s">l</text>
-<text class="g a" x="508.0" y="66" style="animation-delay:4.684s">t</text>
-<text class="g a" x="526.0" y="66" style="animation-delay:4.825s">h</text>
-<text class="g a" x="544.0" y="66" style="animation-delay:4.939s">i</text>
-<text class="g a" x="562.0" y="66" style="animation-delay:5.039s">n</text>
-<text class="g a" x="580.0" y="66" style="animation-delay:5.177s">g</text>
-<text class="g a" x="598.0" y="66" style="animation-delay:5.262s">s</text>
-<text class="g a" x="634.0" y="66" style="animation-delay:5.450s">M</text>
-<text class="g a" x="652.0" y="66" style="animation-delay:5.528s">L</text>
-<text class="g a" x="670.0" y="66" style="animation-delay:5.591s">.</text>
-<g class="caret-wrap"><rect class="caret" x="690.0" y="40" width="3" height="32" rx="1"/></g>
+<text class="g" x="55.6" y="66" style="animation-delay:1.493s">i</text>
+<text class="g" x="71.2" y="66" style="animation-delay:1.608s">,</text>
+<text class="g" x="102.4" y="66" style="animation-delay:1.983s">I</text>
+<text class="g" x="118.0" y="66" style="animation-delay:2.047s">&#39;</text>
+<text class="g" x="133.6" y="66" style="animation-delay:2.128s">m</text>
+<text class="g" x="164.8" y="66" style="animation-delay:2.376s">E</text>
+<text class="g" x="180.4" y="66" style="animation-delay:2.519s">t</text>
+<text class="g" x="196.0" y="66" style="animation-delay:2.601s">h</text>
+<text class="g" x="211.6" y="66" style="animation-delay:2.657s">a</text>
+<text class="g" x="227.2" y="66" style="animation-delay:2.724s">n</text>
+<text class="g" x="242.8" y="66" style="animation-delay:2.844s">.</text>
+<text class="g" x="274.0" y="66" style="animation-delay:3.238s">I</text>
+<text class="g" x="289.6" y="66" style="animation-delay:3.365s">&#39;</text>
+<text class="g" x="305.2" y="66" style="animation-delay:3.445s">m</text>
+<text class="g a" x="336.4" y="66" style="animation-delay:3.829s">p</text>
+<text class="g a" x="352.0" y="66" style="animation-delay:3.902s">a</text>
+<text class="g a" x="367.6" y="66" style="animation-delay:4.021s">s</text>
+<text class="g a" x="383.2" y="66" style="animation-delay:4.148s">s</text>
+<text class="g a" x="398.8" y="66" style="animation-delay:4.234s">i</text>
+<text class="g a" x="414.4" y="66" style="animation-delay:4.304s">o</text>
+<text class="g a" x="430.0" y="66" style="animation-delay:4.456s">n</text>
+<text class="g a" x="445.6" y="66" style="animation-delay:4.602s">a</text>
+<text class="g a" x="461.2" y="66" style="animation-delay:4.742s">t</text>
+<text class="g a" x="476.8" y="66" style="animation-delay:4.857s">e</text>
+<text class="g a" x="508.0" y="66" style="animation-delay:5.164s">a</text>
+<text class="g a" x="523.6" y="66" style="animation-delay:5.249s">b</text>
+<text class="g a" x="539.2" y="66" style="animation-delay:5.311s">o</text>
+<text class="g a" x="554.8" y="66" style="animation-delay:5.394s">u</text>
+<text class="g a" x="570.4" y="66" style="animation-delay:5.472s">t</text>
+<text class="g a" x="601.6" y="66" style="animation-delay:5.635s">a</text>
+<text class="g a" x="617.2" y="66" style="animation-delay:5.771s">l</text>
+<text class="g a" x="632.8" y="66" style="animation-delay:5.854s">l</text>
+<text class="g a" x="664.0" y="66" style="animation-delay:6.027s">t</text>
+<text class="g a" x="679.6" y="66" style="animation-delay:6.104s">h</text>
+<text class="g a" x="695.2" y="66" style="animation-delay:6.217s">i</text>
+<text class="g a" x="710.8" y="66" style="animation-delay:6.280s">n</text>
+<text class="g a" x="726.4" y="66" style="animation-delay:6.367s">g</text>
+<text class="g a" x="742.0" y="66" style="animation-delay:6.475s">s</text>
+<text class="g a" x="773.2" y="66" style="animation-delay:6.734s">M</text>
+<text class="g a" x="788.8" y="66" style="animation-delay:6.789s">L</text>
+<text class="g a" x="804.4" y="66" style="animation-delay:6.874s">!</text>
+<g class="caret-wrap"><rect class="caret" x="822.0" y="43.4" width="3" height="27.8" rx="1"/></g>
 <g class="cur"><path d="M0 0 L0 19 L4.6 14.6 L8 22 L11 20.7 L7.7 13.6 L14 13.6 Z" fill="#e6edf3" stroke="#0d1117" stroke-width="1.4" stroke-linejoin="round"/></g>
 </svg>

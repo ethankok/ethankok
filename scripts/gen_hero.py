@@ -11,10 +11,10 @@ from pathlib import Path
 OUT = Path(__file__).resolve().parent.parent / "assets"
 
 W, H = 860, 104
-HEADLINE = "Hi, I'm Ethan. I love all things ML."
-ACCENT_FROM = HEADLINE.index("love")
+HEADLINE = "Hi, I'm Ethan. I'm passionate about all things ML!"
+ACCENT_FROM = HEADLINE.index("passionate")
 
-FONT_SIZE = 30
+FONT_SIZE = min(30, round((W - 2 * 40) / (0.6 * len(HEADLINE)), 1))  # shrink to fit long headlines
 ADV = FONT_SIZE * 0.6  # monospace advance
 X0, BASE = 40, 66
 MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace"
@@ -122,7 +122,7 @@ def build(theme):
 </style>
 <circle class="ring" cx="{TARGET[0]}" cy="{TARGET[1]}" r="14"/>
 {chr(10).join(glyphs)}
-<g class="caret-wrap"><rect class="caret" x="{caret_x:.1f}" y="{BASE - 26}" width="3" height="32" rx="1"/></g>
+<g class="caret-wrap"><rect class="caret" x="{caret_x:.1f}" y="{BASE - FONT_SIZE * 0.87:.1f}" width="3" height="{FONT_SIZE * 1.07:.1f}" rx="1"/></g>
 <g class="cur"><path d="M0 0 L0 19 L4.6 14.6 L8 22 L11 20.7 L7.7 13.6 L14 13.6 Z" fill="{c['text']}" stroke="{c['edge']}" stroke-width="1.4" stroke-linejoin="round"/></g>
 </svg>
 """
