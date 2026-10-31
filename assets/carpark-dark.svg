@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="100" viewBox="0 0 420 100" role="img" aria-label="7.1% of HDB carparks at least 90% full right now">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="100" viewBox="0 0 420 100" role="img" aria-label="7.6% of HDB carparks at least 90% full right now">
   <style>
     .lbl { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #9198a1; }
     .big { font: 700 46px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; }
@@ -12,7 +12,7 @@
     @keyframes pop { from { opacity: 0; } to { opacity: 1; } }
   </style>
   <text class="lbl" x="16" y="24">HDB carparks &#8805;90% full right now</text>
-  <text class="big" x="16" y="78">7.1%</text>
-  <path class="spark" d="M236.0,82.6 L254.2,77.9 L272.4,59.2 L290.7,79.5 L308.9,90.4 L327.1,76.4 L345.3,42.0 L363.6,63.9 L381.8,92.0 L400.0,73.2" pathLength="1" fill="none" stroke="#5DCAA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle class="dot" cx="400.0" cy="73.2" r="3.5" fill="#5DCAA5"/>
+  <text class="big" x="16" y="78">7.6%</text>
+  <path class="spark" d="M236.0,82.6 L252.4,77.9 L268.8,59.2 L285.2,79.5 L301.6,90.4 L318.0,76.4 L334.4,42.0 L350.8,63.9 L367.2,92.0 L383.6,73.2 L400.0,65.4" pathLength="1" fill="none" stroke="#5DCAA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="dot" cx="400.0" cy="65.4" r="3.5" fill="#5DCAA5"/>
 </svg>
