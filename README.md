@@ -9,6 +9,11 @@ Year 2 **Data Science & AI** undergraduate at **NTU Singapore**, working on agen
 - Academic Development Policy Executive, 36th NTU Students' Union.
 - [LinkedIn](https://www.linkedin.com/in/ethankoksj) · ekok003@e.ntu.edu.sg
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg">
+  <img alt="My contribution graph, with an agent planning shortest paths across it" src="assets/contrib-light.svg" width="100%">
+</picture>
+
 ## Selected work
 
 <a href="https://github.com/aniketmajee7-pixel/NTUxSTEng_Hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trace/hackathon-dark.svg"><img alt="NTU × ST Engineering Hackathon: an agent whose office work looks human in the system logs" src="assets/trace/hackathon-light.svg" width="100%"></picture></a>

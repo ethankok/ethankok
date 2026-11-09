@@ -1,18 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="40" viewBox="0 0 860 40" role="img" aria-label="NTU × STEng Hackathon: pass_as_human()  office work that looks human in the logs">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="82" viewBox="0 0 860 82" role="img" aria-label="NTU × STEng Hackathon: pass_as_human()  office work that looks human in the logs">
   <style>
     .lbl { font: 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9198a1; }
     .bar { fill: #3C3489; transform-box: fill-box; transform-origin: 0 50%; }
     .txt { font: 400 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #CECBF6; white-space: pre; }
     .arr { font: 600 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #CECBF6; }
+    .cur{transform:translate(434px,61px)}.in{fill:#CECBF6;transform-box:fill-box;transform-origin:0 50%}
     @media (prefers-reduced-motion: no-preference) {
       .bar { animation: grow 600ms cubic-bezier(.2,.7,.2,1) 0ms both; }
       .txt, .arr { animation: fade 300ms ease-out 600ms both; }
+      .cur{animation:cur 9.50s linear infinite}.in0{animation:in0 9.50s linear infinite}.in1{animation:in1 9.50s linear infinite}.in2{animation:in2 9.50s linear infinite}.in3{animation:in3 9.50s linear infinite}.in4{animation:in4 9.50s linear infinite}.in5{animation:in5 9.50s linear infinite}
     }
     @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
     @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes cur{0.00%{transform:translate(434.0px,61.0px)}4.21%{transform:translate(434.0px,61.0px)}4.93%{transform:translate(430.4px,60.6px)}5.66%{transform:translate(410.9px,58.4px)}6.38%{transform:translate(372.6px,54.4px)}7.11%{transform:translate(322.5px,51.0px)}7.83%{transform:translate(272.4px,49.9px)}8.55%{transform:translate(234.1px,50.4px)}9.28%{transform:translate(214.6px,50.9px)}10.00%{transform:translate(211.0px,51.0px)}17.04%{transform:translate(212.3px,50.7px)}17.76%{transform:translate(219.3px,49.4px)}18.49%{transform:translate(233.0px,47.2px)}19.21%{transform:translate(251.0px,46.0px)}19.93%{transform:translate(269.0px,47.2px)}20.66%{transform:translate(282.7px,49.4px)}21.38%{transform:translate(289.7px,50.7px)}22.11%{transform:translate(291.0px,51.0px)}29.14%{transform:translate(290.4px,51.0px)}29.87%{transform:translate(286.9px,50.7px)}30.59%{transform:translate(280.0px,50.8px)}31.32%{transform:translate(271.0px,52.5px)}32.04%{transform:translate(262.0px,56.6px)}32.76%{transform:translate(255.1px,61.1px)}33.49%{transform:translate(251.6px,63.5px)}34.21%{transform:translate(251.0px,64.0px)}41.25%{transform:translate(252.9px,63.5px)}41.97%{transform:translate(263.4px,61.1px)}42.70%{transform:translate(284.0px,56.6px)}43.42%{transform:translate(311.0px,52.5px)}44.14%{transform:translate(338.0px,50.8px)}44.87%{transform:translate(358.6px,50.7px)}45.59%{transform:translate(369.1px,51.0px)}46.32%{transform:translate(371.0px,51.0px)}53.36%{transform:translate(370.4px,51.0px)}54.08%{transform:translate(366.9px,50.7px)}54.80%{transform:translate(360.0px,50.8px)}55.53%{transform:translate(351.0px,52.5px)}56.25%{transform:translate(342.0px,56.6px)}56.97%{transform:translate(335.1px,61.1px)}57.70%{transform:translate(331.6px,63.5px)}58.42%{transform:translate(331.0px,64.0px)}65.46%{transform:translate(332.3px,63.7px)}66.18%{transform:translate(339.3px,62.4px)}66.91%{transform:translate(353.0px,60.2px)}67.63%{transform:translate(371.0px,59.0px)}68.36%{transform:translate(389.0px,60.2px)}69.08%{transform:translate(402.7px,62.4px)}69.80%{transform:translate(409.7px,63.7px)}70.53%{transform:translate(411.0px,64.0px)}91.32%{transform:translate(411.4px,64.0px)}92.11%{transform:translate(413.4px,63.7px)}92.89%{transform:translate(417.3px,63.2px)}93.68%{transform:translate(422.5px,62.5px)}94.47%{transform:translate(427.7px,61.8px)}95.26%{transform:translate(431.6px,61.3px)}96.05%{transform:translate(433.6px,61.0px)}96.84%{transform:translate(434.0px,61.0px)}100.00%{transform:translate(434.0px,61.0px)}}
+    @keyframes in0{0.00%{transform:scaleX(0);opacity:1}11.26%{transform:scaleX(0);opacity:1}14.95%{transform:scaleX(1);opacity:1}86.32%{transform:scaleX(1);opacity:1}89.47%{transform:scaleX(1);opacity:0}100.00%{transform:scaleX(1);opacity:0}}
+    @keyframes in1{0.00%{transform:scaleX(0);opacity:1}23.37%{transform:scaleX(0);opacity:1}27.05%{transform:scaleX(1);opacity:1}86.32%{transform:scaleX(1);opacity:1}89.47%{transform:scaleX(1);opacity:0}100.00%{transform:scaleX(1);opacity:0}}
+    @keyframes in2{0.00%{transform:scaleX(0);opacity:1}35.47%{transform:scaleX(0);opacity:1}39.16%{transform:scaleX(1);opacity:1}86.32%{transform:scaleX(1);opacity:1}89.47%{transform:scaleX(1);opacity:0}100.00%{transform:scaleX(1);opacity:0}}
+    @keyframes in3{0.00%{transform:scaleX(0);opacity:1}47.58%{transform:scaleX(0);opacity:1}51.26%{transform:scaleX(1);opacity:1}86.32%{transform:scaleX(1);opacity:1}89.47%{transform:scaleX(1);opacity:0}100.00%{transform:scaleX(1);opacity:0}}
+    @keyframes in4{0.00%{transform:scaleX(0);opacity:1}59.68%{transform:scaleX(0);opacity:1}63.37%{transform:scaleX(1);opacity:1}86.32%{transform:scaleX(1);opacity:1}89.47%{transform:scaleX(1);opacity:0}100.00%{transform:scaleX(1);opacity:0}}
+    @keyframes in5{0.00%{transform:scaleX(0);opacity:1}71.79%{transform:scaleX(0);opacity:1}75.47%{transform:scaleX(1);opacity:1}86.32%{transform:scaleX(1);opacity:1}89.47%{transform:scaleX(1);opacity:0}100.00%{transform:scaleX(1);opacity:0}}
   </style>
   <text class="lbl" x="0" y="24.2">NTU × STEng Hackathon</text>
   <rect class="bar" x="180" y="9" width="502" height="22" rx="4"/>
   <text class="txt" x="192" y="24.2" xml:space="preserve">pass_as_human()  office work that looks human in the logs</text>
   <text class="arr" x="658" y="24.2">→</text>
+  <rect x="180.5" y="45.5" width="240" height="26" rx="2" fill="none" stroke="#3C3489"/>
+  <path d="M180 58.5h240M220.5 45v26M260.5 45v26M300.5 45v26M340.5 45v26M380.5 45v26" stroke="#3C3489" fill="none"/>
+  <rect class="in in0" x="186" y="49" width="22" height="5" rx="2"/>
+  <rect class="in in1" x="266" y="49" width="28" height="5" rx="2"/>
+  <rect class="in in2" x="226" y="62" width="18" height="5" rx="2"/>
+  <rect class="in in3" x="346" y="49" width="26" height="5" rx="2"/>
+  <rect class="in in4" x="306" y="62" width="20" height="5" rx="2"/>
+  <rect class="in in5" x="386" y="62" width="24" height="5" rx="2"/>
+  <g class="cur"><path transform="scale(.62)" d="M0 0 L0 19 L4.6 14.6 L8 22 L11 20.7 L7.7 13.6 L14 13.6 Z" fill="#CECBF6" stroke="#0d1117" stroke-width="1.6" stroke-linejoin="round"/></g>
 </svg>

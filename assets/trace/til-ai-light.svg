@@ -1,18 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="40" viewBox="0 0 860 40" role="img" aria-label="DSTA TIL-AI: five_ml_services()  speech, vision, QA, RL, adversarial noise">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="82" viewBox="0 0 860 82" role="img" aria-label="DSTA TIL-AI: five_ml_services()  speech, vision, QA, RL, adversarial noise">
   <style>
     .lbl { font: 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #59636e; }
     .bar { fill: #9FE1CB; transform-box: fill-box; transform-origin: 0 50%; }
     .txt { font: 400 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #085041; white-space: pre; }
     .arr { font: 600 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #085041; }
+    .bomb,.flame{opacity:0}.pl{transform-box:fill-box;transform-origin:center}
     @media (prefers-reduced-motion: no-preference) {
       .bar { animation: grow 600ms cubic-bezier(.2,.7,.2,1) 150ms both; }
       .txt, .arr { animation: fade 300ms ease-out 750ms both; }
+      .ag{animation:ag 8.90s linear infinite}.pl{animation:pulse .28s ease-in-out infinite alternate}.b0{animation:b0 8.90s step-end infinite}.f0{animation:f0 8.90s linear infinite}.c0{animation:c0 8.90s step-end infinite}.b1{animation:b1 8.90s step-end infinite}.f1{animation:f1 8.90s linear infinite}.c1{animation:c1 8.90s step-end infinite}
     }
     @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
     @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes ag{0.00%{transform:translate(0px,0px);opacity:1}5.62%{transform:translate(0px,0px);opacity:1}16.85%{transform:translate(50px,0px);opacity:1}19.10%{transform:translate(40px,0px);opacity:1}23.60%{transform:translate(40px,20px);opacity:1}33.71%{transform:translate(40px,20px);opacity:1}47.19%{transform:translate(100px,20px);opacity:1}51.69%{transform:translate(80px,20px);opacity:1}56.18%{transform:translate(80px,0px);opacity:1}66.29%{transform:translate(80px,0px);opacity:1}84.27%{transform:translate(160px,0px);opacity:1}89.89%{transform:translate(160px,0px);opacity:0}96.63%{transform:translate(0px,0px);opacity:0}100.00%{transform:translate(0px,0px);opacity:1}}
+    @keyframes pulse{from{transform:scale(.75)}to{transform:scale(1.15)}}
+    @keyframes b0{0.00%{opacity:0}16.85%{opacity:1}33.15%{opacity:0}100.00%{opacity:0}}
+    @keyframes f0{0.00%{opacity:0}33.03%{opacity:0}33.82%{opacity:1}37.64%{opacity:0}100.00%{opacity:0}}
+    @keyframes c0{0.00%{opacity:1}33.15%{opacity:0}96.63%{opacity:0}100.00%{opacity:1}}
+    @keyframes b1{0.00%{opacity:0}47.19%{opacity:1}63.48%{opacity:0}100.00%{opacity:0}}
+    @keyframes f1{0.00%{opacity:0}63.37%{opacity:0}64.16%{opacity:1}67.98%{opacity:0}100.00%{opacity:0}}
+    @keyframes c1{0.00%{opacity:1}63.48%{opacity:0}96.63%{opacity:0}100.00%{opacity:1}}
   </style>
   <text class="lbl" x="0" y="24.2">DSTA TIL-AI</text>
   <rect class="bar" x="245" y="9" width="534" height="22" rx="4"/>
   <text class="txt" x="257" y="24.2" xml:space="preserve">five_ml_services()  speech, vision, QA, RL, adversarial noise</text>
   <text class="arr" x="755" y="24.2">→</text>
+  <rect x="243.5" y="43.5" width="173" height="33" rx="3" fill="none" stroke="#9FE1CB"/>
+  <rect x="256" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect x="276" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect x="296" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect x="316" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect x="336" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect x="356" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect x="376" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect x="396" y="56" width="8" height="8" rx="1.5" fill="#9FE1CB"/>
+  <rect class="c0" x="306.5" y="46.5" width="7" height="7" rx="1.5" fill="#9FE1CB" stroke="#085041" stroke-width="1.2"/>
+  <rect class="flame f0" x="276" y="46.5" width="48" height="7" rx="3.5" fill="#D8433B"/>
+  <g class="bomb b0"><circle class="pl" cx="300" cy="50" r="3.2" fill="#085041"/></g>
+  <rect class="c1" x="356.5" y="66.5" width="7" height="7" rx="1.5" fill="#9FE1CB" stroke="#085041" stroke-width="1.2"/>
+  <rect class="flame f1" x="326" y="66.5" width="48" height="7" rx="3.5" fill="#D8433B"/>
+  <g class="bomb b1"><circle class="pl" cx="350" cy="70" r="3.2" fill="#085041"/></g>
+  <rect class="ag" x="246" y="46" width="8" height="8" rx="2.5" fill="#085041"/>
 </svg>
