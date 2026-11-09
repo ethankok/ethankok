@@ -13,6 +13,6 @@
   </style>
   <text class="lbl" x="16" y="24">HDB carparks &#8805;90% full right now</text>
   <text class="big" x="16" y="78">6.7%</text>
-  <path class="spark" d="M236.0,63.4 L243.1,64.6 L250.3,76.5 L257.4,68.2 L264.5,78.9 L271.7,71.8 L278.8,68.2 L285.9,78.9 L293.0,74.1 L300.2,78.9 L307.3,70.6 L314.4,78.9 L321.6,71.8 L328.7,42.0 L335.8,55.1 L343.0,78.9 L350.1,78.9 L357.2,70.6 L364.3,44.4 L371.5,68.2 L378.6,92.0 L385.7,82.5 L392.9,73.0 L400.0,78.9" pathLength="1" fill="none" stroke="#5DCAA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="spark" d="M236.0,64.6 L243.1,76.5 L250.3,68.2 L257.4,78.9 L264.5,71.8 L271.7,68.2 L278.8,78.9 L285.9,74.1 L293.0,78.9 L300.2,70.6 L307.3,78.9 L314.4,71.8 L321.6,42.0 L328.7,55.1 L335.8,78.9 L343.0,78.9 L350.1,70.6 L357.2,44.4 L364.3,68.2 L371.5,92.0 L378.6,82.5 L385.7,73.0 L392.9,78.9 L400.0,78.9" pathLength="1" fill="none" stroke="#5DCAA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   <circle class="dot" cx="400.0" cy="78.9" r="3.5" fill="#5DCAA5"/>
 </svg>
